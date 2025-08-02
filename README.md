@@ -53,9 +53,6 @@
 ## -> Routing
 <img width="707" height="666" alt="image" src="https://github.com/user-attachments/assets/05dd80eb-6b16-40f3-9d2d-69ed89767076" />
 
-## Cell usage report
-
-
 ## Chip Layout
 <img width="770" height="667" alt="image" src="https://github.com/user-attachments/assets/9b7e88ae-c626-4061-a061-deee60ed8cb5" />
 
